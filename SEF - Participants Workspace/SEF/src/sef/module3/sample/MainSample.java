@@ -15,7 +15,7 @@ import java.util.Date;
 public class MainSample {
 
 	public static void main(String[] args) {
-		//	This line prints out the String 'Hello World!' in the console
+		//	Linha que que faz o print da string
 		System.out.println( "Welcome to Java!");
 		
 	}
