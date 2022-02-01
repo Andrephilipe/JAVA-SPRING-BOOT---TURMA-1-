@@ -14,14 +14,21 @@ import java.util.Date;
 */
 public class MainSample {
 
-	int A1 = 0;
+	
 	public static void main(String[] args) {
-		System.out.println( "Welcome to Java!");
-	}
+		int A = 2;
+		int B = 4;
+		int c = 6;
 
-	public void digaOla(String alo){
-		System.out.println(alo);
-		System.out.println(A1);
+		System.out.println("Inicio do teste");
+
+		if(A >= 3 && B < 4){
+			A++;
+			System.out.println(B);
+		}else{
+			System.out.println("Nenhuma das alternativa");
+		}
+		
 	}
 
 }
