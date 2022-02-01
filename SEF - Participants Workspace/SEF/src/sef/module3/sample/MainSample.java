@@ -14,9 +14,14 @@ import java.util.Date;
 */
 public class MainSample {
 
+	int A1 = 0;
 	public static void main(String[] args) {
-		//	Linha que que faz o print da string
 		System.out.println( "Welcome to Java!");
-		
 	}
+
+	public void digaOla(String alo){
+		System.out.println(alo);
+		System.out.println(A1);
+	}
+
 }
