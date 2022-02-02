@@ -1,10 +1,10 @@
 /**
- * 
+ * Created on Fev 02, 2022
  */
 package sef.module3.activity;
 
 /**
- * @author 
+ * @author André Philipe
  *
  */
 public class FindInArray {
