@@ -1,4 +1,4 @@
-package br.acc.datas;
+package sef.module5.sample.datas;
 
 import java.util.GregorianCalendar;
 
@@ -8,9 +8,9 @@ public class CalendarioGregoriano {
 		GregorianCalendar gc = new GregorianCalendar();
 		System.out.println(gc.get(gc.DAY_OF_WEEK)); //Mostra qual o dia da semana 1 
 
-		System.out.println(gc.isLeapYear(2009)); // imprime falso. 2009 não é bissexto.
+		System.out.println(gc.isLeapYear(2009)); // imprime falso. 2009 nï¿½o ï¿½ bissexto.
 		
-		gc.add(gc.MONTH, 2); //Adiciona 2 meses à data atual
+		gc.add(gc.MONTH, 2); //Adiciona 2 meses ï¿½ data atual
 		System.out.println(gc.MONTH);
 		
         System.out.println(gc.getTime());

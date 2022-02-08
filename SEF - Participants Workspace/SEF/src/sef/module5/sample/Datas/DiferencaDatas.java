@@ -1,10 +1,10 @@
-package br.acc.datas;
+package sef.module5.sample.datas;
 
 import java.text.ParseException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
-// Diferença entre Dias
+// Diferenï¿½a entre Dias
 
 public class DiferencaDatas {
 	
@@ -15,6 +15,6 @@ public class DiferencaDatas {
         LocalDate date2 = LocalDate.parse("04-10-2019", fmt);
         long diferencaEmDias = ChronoUnit.MONTHS.between(date2, date1);        
         
-        System.out.println("Diferença em dias entre " + date1 + " e " + date2 + " = " + diferencaEmDias);
+        System.out.println("Diferenï¿½a em dias entre " + date1 + " e " + date2 + " = " + diferencaEmDias);
 	}
 }

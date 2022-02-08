@@ -1,4 +1,4 @@
-package br.acc.datas;
+package sef.module5.sample.datas;
 // Java code to demonstrate 
 // setTime() function of Date class 
 

@@ -1,4 +1,4 @@
-package br.acc.datas;
+package sef.module5.sample.datas;
 
 import java.time.Instant;
 import java.time.LocalDate;
@@ -45,7 +45,7 @@ public class DatHora {
     System.out.println(i);
     
     // ZonedDateTime - LocalDateTime com 
-    // TimeZone (fuso horário)
+    // TimeZone (fuso horï¿½rio)
     // 06/08/1990 11:40:00 GMT-3 (America/Sao_Paulo)
     ZonedDateTime zdtNow = ZonedDateTime.now();
     System.out.println(zdtNow);
