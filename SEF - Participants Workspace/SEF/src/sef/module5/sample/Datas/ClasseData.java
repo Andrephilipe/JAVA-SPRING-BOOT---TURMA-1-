@@ -1,4 +1,4 @@
-package br.acc.datas;
+package sef.module5.sample.datas;
 
 //Program to demonstrate methods of Date class 
 import java.util.Date; 

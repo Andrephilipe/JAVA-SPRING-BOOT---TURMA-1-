@@ -1,13 +1,13 @@
-package br.acc.datas;
+package sef.module5.sample.datas;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
 public class DiasNoMes {
     /**
-     * Recuperar a quantidade de dias no mês
+     * Recuperar a quantidade de dias no mï¿½s
      * 
-     * @param mes Mês que deseja saber a quantidade de dias
+     * @param mes Mï¿½s que deseja saber a quantidade de dias
      * @return quantidade de dias
      */
     public static int getQuantidadeDiasByMes(int mes){
