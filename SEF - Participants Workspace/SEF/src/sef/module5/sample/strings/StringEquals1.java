@@ -1,4 +1,4 @@
-package acc.strings.sample;
+package sef.module5.sample.strings;
 
 public class StringEquals1 {
 	public static void main(String[] args)
@@ -7,6 +7,6 @@ public class StringEquals1 {
         String s2 = new String("HELLO"); 
 
         System.out.println(s1 == s2); // Comparando objetos
-        System.out.println(s1.equals(s2)); // Comparando conteúdo
+        System.out.println(s1.equals(s2)); // Comparando conteï¿½do
     }
 }

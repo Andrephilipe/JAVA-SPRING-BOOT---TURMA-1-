@@ -1,4 +1,4 @@
-package acc.strings.sample;
+package sef.module5.sample.strings;
 
 public class StringBuffer3 {
 	public static void main(String[] args)
@@ -36,6 +36,6 @@ public class StringBuffer3 {
         s.replace(5, 8, "are"); 
         System.out.println(s); // returns rof43are.14rt2nawap14
         
-//        s = "alterar a conteúdo da string por este novo";
+//        s = "alterar a conteï¿½do da string por este novo";
     }
 }

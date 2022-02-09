@@ -1,4 +1,4 @@
-package acc.strings.sample;
+package sef.module5.sample.strings;
 
 import java.util.Scanner;
 
@@ -13,9 +13,9 @@ public class StringScanner {
         if (opcao == 's')
            System.out.println("Continua!");
         else if (opcao == 'n')
-           System.out.println("Não Continua!");
+           System.out.println("Nï¿½o Continua!");
         else 
-           System.out.println("Opção Invalida!");
+           System.out.println("Opï¿½ï¿½o Invalida!");
 	}
 
 }
