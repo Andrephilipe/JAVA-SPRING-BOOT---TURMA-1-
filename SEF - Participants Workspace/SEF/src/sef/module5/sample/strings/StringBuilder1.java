@@ -1,4 +1,4 @@
-package acc.strings.sample;
+package sef.module5.sample.strings;
 
 import java.util.List;
 import java.util.ArrayList;

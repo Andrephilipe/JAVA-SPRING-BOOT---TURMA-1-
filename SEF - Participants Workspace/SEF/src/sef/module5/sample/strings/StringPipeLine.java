@@ -1,4 +1,4 @@
-package acc.strings.sample;
+package sef.module5.sample.strings;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;
@@ -7,9 +7,9 @@ public class StringPipeLine {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String greeting = "João";
+		String greeting = "Joï¿½o";
 		String person = "vizinho";
-		String location = "vizinhança";
+		String location = "vizinhanï¿½a";
 
 		// The + Operator
 		String plusConcat = greeting + " " + person + "! Bem vindo a " + location + "!";

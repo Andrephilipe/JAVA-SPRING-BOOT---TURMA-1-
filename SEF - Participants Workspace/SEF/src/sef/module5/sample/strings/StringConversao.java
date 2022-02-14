@@ -1,4 +1,4 @@
-package acc.strings.sample;
+package sef.module5.sample.strings;
 
 public class StringConversao {
 	public static void main(String[] args) {
@@ -7,13 +7,13 @@ public class StringConversao {
 	int i = 64;
 	String aChar = new Character((char)i).toString();
 	
-//	Convertendo números em decimal para binário
+//	Convertendo nï¿½meros em decimal para binï¿½rio
 	String binstr = Integer.toBinaryString(i);
 	
 //	Convertendo um valor booleano para integer
 //	i = (b)?1:0;
 	
-//	Convertendo um número decimal para hexadecimal
+//	Convertendo um nï¿½mero decimal para hexadecimal
 	String hexstr = Integer.toHexString(i);
 	System.out.println(hexstr);
 
@@ -24,14 +24,14 @@ public class StringConversao {
 	float f = 12.0f;
 	String s2 = Float.toString(f);
 		
-//	Convertendo números em hexadecimal para integer
+//	Convertendo nï¿½meros em hexadecimal para integer
 	int hi = Integer.valueOf("B8DA3", 16).intValue();
 	
-//	Convertendo um integer para código ASCII
+//	Convertendo um integer para cï¿½digo ASCII
 	char ca = 'A';
-	int sa = (int) ca; // Você terá o valor 65
+	int sa = (int) ca; // Vocï¿½ terï¿½ o valor 65
 
-//	Convertendo um número integer para boolean
+//	Convertendo um nï¿½mero integer para boolean
 //	b = (i != 0);
 	
 //	Convertendo de um integer para uma String

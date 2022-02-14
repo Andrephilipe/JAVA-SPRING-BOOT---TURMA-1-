@@ -1,4 +1,4 @@
-package acc.strings.sample;
+package sef.module5.sample.strings;
 
 public class StringBuffer2 {
 	public static void main(String[] args)
