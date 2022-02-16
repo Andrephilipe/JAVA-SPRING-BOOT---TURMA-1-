@@ -1,0 +1,40 @@
+Java Certified Foundations Associate:
+
+Java Elementos Básicos (02:42)
+https://mediaexchange.accenture.com/media/t/1_f9shuvym
+
+Básico do JAVA (03:39)
+https://mediaexchange.accenture.com/media/t/1_pp4ladro
+
+Guia de estilos (04:14)
+https://mediaexchange.accenture.com/media/t/1_nb3kwk16
+
+Java Melhores praticas (04:15)
+https://mediaexchange.accenture.com/media/t/1_i0694pgd
+
+Palavras Reservadas (05:14)
+https://mediaexchange.accenture.com/media/t/1_y2decy8h
+
+Usando o THIS (02:09)
+https://mediaexchange.accenture.com/media/t/1_nq4k1m33
+
+Comentários em JAVA (02:49)
+https://mediaexchange.accenture.com/media/t/1_k1q5q4bt
+
+Comentários em Demonstração (01:47)
+https://mediaexchange.accenture.com/media/t/1_hv6vcnfm
+
+Pacotes JAVA (02:46)
+https://mediaexchange.accenture.com/media/t/1_i7zs5ep5
+
+Pacotes em Demonstração (02:37)
+https://mediaexchange.accenture.com/media/t/1_zldz1zjf
+
+Pacote JAVA.LANG (02:44)
+https://mediaexchange.accenture.com/media/t/1_xj4syjmx
+
+Usando JAVA.LANG (01:49)
+https://mediaexchange.accenture.com/media/t/1_25hb8f7o
+
+Resumo
+https://mediaexchange.accenture.com/media/t/1_kp1qxhae

@@ -8,7 +8,7 @@ public class DeleteSample {
 
 	public static void main(String[] args) {
 		try{
-			String url = "jdbc:mysql://localhost/activity";
+			String url = "jdbc:mysql://localhost/teste";
 			String user = "root";
 			String pass = "abcd1234";
 			
