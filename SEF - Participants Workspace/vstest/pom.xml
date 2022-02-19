@@ -8,10 +8,10 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>testevscode</artifactId>
+	<groupId>acc.com2</groupId>
+	<artifactId>vstest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>testevscode</name>
+	<name>vstest</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
@@ -32,10 +32,9 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-openfeign</artifactId>
     </dependency>
-
+	
 	</dependencies>
-
-	 <dependencyManagement>
+	<dependencyManagement>
         <dependencies>
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
