@@ -1,0 +1,43 @@
+Java Certified Foundations Associate:
+
+JAVA COLLECTIONS:
+
+JAVA ARRAY E ARRAY LIST (02:08)
+https://mediaexchange.accenture.com/media/t/1_52yawct5
+
+JAVA ARRAY (03:04)
+https://mediaexchange.accenture.com/media/t/1_vjlovn2n
+
+JAVA ARRAY DEMO (02:07)
+https://mediaexchange.accenture.com/media/t/1_ac4con8n
+
+JAVA ARRAY LIST (03:46)
+https://mediaexchange.accenture.com/media/t/1_d77fnzg4
+
+JAVA ARRAY LIST DEMO (02:05)
+https://mediaexchange.accenture.com/media/t/1_zo6ssj78
+
+JAVA CLASS ITERATOR (03:21)
+https://mediaexchange.accenture.com/media/t/1_aoyr218h
+
+JAVA LINKED LIST (03:46)
+https://mediaexchange.accenture.com/media/t/1_pst4p44l
+
+JAVA LINKED LIST DEMO (03:25)
+https://mediaexchange.accenture.com/media/t/1_b0anpfbu
+
+JAVA HASMAP (03:53)
+https://mediaexchange.accenture.com/media/t/1_yqqn7n9s
+
+JAVA HASMAP DEMO (03:49)
+https://mediaexchange.accenture.com/media/t/1_285oo4tb
+
+JAVA HASHSET (02:43)
+https://mediaexchange.accenture.com/media/t/1_lk825llk
+
+JAVA HASHSET DEMO (02:48)
+https://mediaexchange.accenture.com/media/t/1_0lm025fd
+
+Resumo: (00:21)
+https://mediaexchange.accenture.com/media/t/1_zyzixfvx
+
