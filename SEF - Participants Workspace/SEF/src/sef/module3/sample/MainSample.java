@@ -14,9 +14,21 @@ import java.util.Date;
 */
 public class MainSample {
 
+	
 	public static void main(String[] args) {
-		//	Linha que que faz o print da string
-		System.out.println( "Welcome to Java!");
+		int A = 2;
+		int B = 4;
+		int c = 6;
+
+		System.out.println("Inicio do teste");
+
+		if(A >= 3 && B < 4){
+			A++;
+			System.out.println(B);
+		}else{
+			System.out.println("Nenhuma das alternativa");
+		}
 		
 	}
+
 }

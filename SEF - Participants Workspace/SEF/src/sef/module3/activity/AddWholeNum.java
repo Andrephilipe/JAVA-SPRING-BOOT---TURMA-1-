@@ -1,10 +1,10 @@
 /**
- * 
+ * Created on Fev 01, 2022
  */
 package sef.module3.activity;
 
 /**
- * @author 
+ * @author André Philipe
  *
  */
 public class AddWholeNum {
@@ -22,6 +22,7 @@ public class AddWholeNum {
 		total = 0;
 		
 		// complete the code. write for loop for i
+		for(int i = 50; i < 100; i++){
 		total = total + i;
 		}
 		System.out.println("Addition of Whole Numbers from 50 to 100 = " + total);
