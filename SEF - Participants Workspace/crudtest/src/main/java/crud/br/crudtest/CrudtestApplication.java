@@ -1,13 +1,13 @@
-package acc.br.student;
+package crud.br.crudtest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StudentApplication {
+public class CrudtestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StudentApplication.class, args);
+		SpringApplication.run(CrudtestApplication.class, args);
 	}
 
 }
