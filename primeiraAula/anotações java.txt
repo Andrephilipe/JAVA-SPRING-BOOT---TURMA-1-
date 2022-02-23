@@ -1,0 +1,20 @@
+o que é metodo e um conjunto de instruções.
+posso passar parâmetros nos metodos e posso argumentos.
+
+o que é um array é um conjunto de dados. é uma sequencia de objetos ou dados primitivos.
+
+objetivos do modúlo 4
+diferença entre classe e instancias
+
+classes é um modelo para um objeto especifico e contem atributos do objeto.
+exemplo classe carro() é um exemplo para outros carros. define atributos e metodos para os objetos
+
+métodos o que o carro faz, carro ..buzina ... carro anda
+
+comando new cria um objeto apartir de uma classe exemplo MetodoCalss carro = new MetodoClass();
+quando se chama o comando new ele chama o metodo construtor.
+
+import utiliado para importar uma biblioteca de classes.
+
+metodo crostutor é utilizado para construir a classe. 
+para construir os atributos da classe.

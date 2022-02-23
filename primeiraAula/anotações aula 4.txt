@@ -1,0 +1,25 @@
+package é uma coleção de classes
+
+Garbage Collect
+é o processo de limpar a memória automaticamente.
+só limpa a memoria de sujeira do processo.
+
+modificadores de acesso
+modificador de acesso das classes ex private, public, protected ou defaul;
+
+non-access descreve como uma classe pode ser manipulada
+static uma classe compartilhada por toda instancia
+
+final 
+
+metodo Getters e Setters
+get pega os dados da variaveis e set seta a memoria.
+serve para pegar as informações e set para colocar a informação.
+
+overload e overwrite
+
+wrappers para cada tipo tem o tipo primitivo
+wrap = embrulhar os tipos primitivos a classes correspodente.
+é a utilização do tipo primitivo como objeto.
+
+jOptionPane.
